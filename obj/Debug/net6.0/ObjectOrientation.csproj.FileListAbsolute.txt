@@ -1,0 +1,15 @@
+C:\temp\ObjectOrientation\bin\Debug\net6.0\ObjectOrientation.exe
+C:\temp\ObjectOrientation\bin\Debug\net6.0\ObjectOrientation.deps.json
+C:\temp\ObjectOrientation\bin\Debug\net6.0\ObjectOrientation.runtimeconfig.json
+C:\temp\ObjectOrientation\bin\Debug\net6.0\ObjectOrientation.dll
+C:\temp\ObjectOrientation\bin\Debug\net6.0\ObjectOrientation.pdb
+C:\temp\ObjectOrientation\obj\Debug\net6.0\ObjectOrientation.csproj.AssemblyReference.cache
+C:\temp\ObjectOrientation\obj\Debug\net6.0\ObjectOrientation.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ObjectOrientation\obj\Debug\net6.0\ObjectOrientation.AssemblyInfoInputs.cache
+C:\temp\ObjectOrientation\obj\Debug\net6.0\ObjectOrientation.AssemblyInfo.cs
+C:\temp\ObjectOrientation\obj\Debug\net6.0\ObjectOrientation.csproj.CoreCompileInputs.cache
+C:\temp\ObjectOrientation\obj\Debug\net6.0\ObjectOrientation.dll
+C:\temp\ObjectOrientation\obj\Debug\net6.0\refint\ObjectOrientation.dll
+C:\temp\ObjectOrientation\obj\Debug\net6.0\ObjectOrientation.pdb
+C:\temp\ObjectOrientation\obj\Debug\net6.0\ObjectOrientation.genruntimeconfig.cache
+C:\temp\ObjectOrientation\obj\Debug\net6.0\ref\ObjectOrientation.dll
