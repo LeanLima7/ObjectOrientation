@@ -2,7 +2,7 @@
 
 
 
-### Descrição do Desafio ⚙️
+### Challenge Description ⚙️
 
 Considering the knowledge of the C# programming language, this project develops a simple application where the pillars of object-oriented programming are used.
 
