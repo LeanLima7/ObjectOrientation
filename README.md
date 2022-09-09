@@ -15,7 +15,8 @@ Considering the knowledge of the C# programming language, this project develops 
  Character.cs: 📁
   - public  class Character.
  
-## Inheritance 👨‍👧‍👦👨‍👩‍👧‍👧👩‍👧‍👦
+## Inheritance 👨‍👧‍👦👨‍👩‍👧‍👧👩‍👧‍👦<img src="https://user-images.githubusercontent.com/87840459/189427519-f7f9cc56-fa34-4b11-a724-ac8ff76638ef.gif" width="40px">
+<br></div>
 
 Inheritance is a mechanism that allows features common to several classes to be factored on a class basis, or superclass. From a base of classes, other classes can be specified.
 
