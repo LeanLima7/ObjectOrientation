@@ -6,17 +6,18 @@
 
 Considering the knowledge of the C# programming language, this project develops a simple application where the pillars of object-oriented programming are used.
 
-## Inheritance 
+## Inheritance 👨‍👧‍👦👩‍👧‍👦
 
 Inheritance is a mechanism that allows features common to several classes to be factored on a class basis, or superclass. From a base of classes, other classes can be specified.
 
 In this project the "Urchin", "Fox" and "Echidna" classes inherit attributes from the "Character" class. The attributes are:
 
-string Name = "";
-string Classification = "";
-int Age = 0;
-string Origin = "";
-List<string> Skill = null.
+ - string Name = "";
+ - string Classification = "";
+ - int Age = 0;
+ - string Origin = "";
+ - List<string> Skill = null.
+   
 
 ___
     2ª Sprint:📁
