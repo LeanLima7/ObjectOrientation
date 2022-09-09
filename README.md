@@ -6,7 +6,7 @@ Considering the knowledge of the C# programming language, this project develops 
 
  ## Abstraction ♻️
  
- It's seeing everything we can reuse. In the case of this project, this concept is applied in the "Character" class, where all the points that all characters have in common were gathered.
+ It's checking everything we can reuse. In the case of this project, this concept is applied in the "Character" class, where all the points that all characters have in common were gathered.
  
  Character.cs: 📁
   - public  class Character.
@@ -25,7 +25,7 @@ In this project the "Urchin", "Fox" and "Echidna" classes inherit attributes fro
  
  ## Abstraction ♻️
  
- It's seeing everything we can reuse. In the case of this project, this concept is applied in the "Character" class, where all the points that all characters have in common were gathered.
+ It's checking everything we can reuse. In the case of this project, this concept is applied in the "Character" class, where all the points that all characters have in common were gathered.
 
    
 
