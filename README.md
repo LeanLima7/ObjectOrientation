@@ -1,21 +1,23 @@
 # ObjectOrientation
 
-# # Criando uma aplicação de gerenciamento de conta bancária usando o Java ☕
-Esse é o desafio de projeto final que compõe o [Bootcamp Backend Java]() insentivado pela [Wipro](https://www.linkedin.com/company/wipro/) em parceria com a [Gama Academy](https://www.linkedin.com/school/gama-academy/), confeccionado pelo Grupo 1 - Squad Matrix😎.
+
 
 ### Descrição do Desafio ⚙️
 
-Considerando o conhecimento da linguagem de programação JAVA, iremos elaborar uma aplicação que faça gerenciamento de conta bancária, permitindo que
-sejam feitas as operações de criação, consulta e remoção, além das operações de
-saque e depósito e essa conta também delver ter um cartão de crédito.
-O projeto será desenvolvido em três sprints:
+Considering the knowledge of the C# programming language, this project develops a simple application where the pillars of object-oriented programming are used.
 
-    1ª Sprint: 📂
-Nessa sprint serão atribuidas 4 classes ao projeto sendo:
-- Classe Conta;
-- Classe Conta Corrente;
-- Classe Conta Especial; 
-- Classe Gerencia Contas.
+## Inheritance 
+
+Inheritance is a mechanism that allows features common to several classes to be factored on a class basis, or superclass. From a base of classes, other classes can be specified.
+
+In this project the "Urchin", "Fox" and "Echidna" classes inherit attributes from the "Character" class. The attributes are:
+
+string Name = "";
+string Classification = "";
+int Age = 0;
+string Origin = "";
+List<string> Skill = null.
+
 ___
     2ª Sprint:📁
 Nessa etapa desenvolveremos uma API para acesso via Web substituindo a
