@@ -4,6 +4,13 @@
 
 Considering the knowledge of the C# programming language, this project develops a simple application where the pillars of object-oriented programming are used.
 
+ ## Abstraction ♻️
+ 
+ It's seeing everything we can reuse. In the case of this project, this concept is applied in the "Character" class, where all the points that all characters have in common were gathered.
+ 
+ Character.cs: 📁
+  - public  class Character.
+ 
 ## Inheritance 👨‍👧‍👦👨‍👩‍👧‍👧👩‍👧‍👦
 
 Inheritance is a mechanism that allows features common to several classes to be factored on a class basis, or superclass. From a base of classes, other classes can be specified.
@@ -16,7 +23,9 @@ In this project the "Urchin", "Fox" and "Echidna" classes inherit attributes fro
  - string Origin = "";
  - List<string> Skill = null.
  
- ## Inheritance 👨‍👧‍👦👨‍👩‍👧‍👧👩‍👧‍👦
+ ## Abstraction ♻️
+ 
+ It's seeing everything we can reuse. In the case of this project, this concept is applied in the "Character" class, where all the points that all characters have in common were gathered.
 
    
 
