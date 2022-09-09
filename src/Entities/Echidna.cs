@@ -26,6 +26,13 @@ namespace ObjectOrientation.src.Entities
             }
             return skillOutput;
         }
+        public string Attack(int Bonus)
+        {
+            if (Bonus <= 6)
+            {return this.Name + " attacked with SUPER attack " + Bonus;}
+            else { return this.Name + " attacked with HYPER attack " + Bonus;}
+        }
+
     }
 
 }

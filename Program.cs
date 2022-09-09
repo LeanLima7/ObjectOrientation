@@ -44,7 +44,8 @@ class Program
         Console.WriteLine(SonicUrchin.Attack(15));
         Console.WriteLine(ShadowUrchin.Attack(10));
 
-
+        Console.WriteLine(KnuclesEchidna.Attack(6));
+        Console.WriteLine(TikalEchidna.Attack(12));
 
 
         //   Console.WriteLine(Functions.Attack(ShadowUrchin));
