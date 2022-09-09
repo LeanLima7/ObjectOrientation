@@ -5,9 +5,11 @@ using System.Threading.Tasks;
 
 namespace ObjectOrientation.src.Entities
 {
-    public class Character
+    public  class Character
     {
-        public Character (String Name, String Classification, int Age, String Origin, String Skill)
+        //public static string Sega = "";
+
+        public Character(string Name = "", string Classification = "", int Age = 0, string Origin = "", List<string> Skill = null)
         {            
             this.Name = Name;
             this.Classification = Classification;
@@ -15,14 +17,14 @@ namespace ObjectOrientation.src.Entities
             this.Origin = Origin;
             this.Skill = Skill;
         }
-    
-        public String Name;
-        public String Classification;
+        
+        public string Name;
+        public string Classification;
         public int Age;
-        public String Origin;
-        public String Skill;
+        public string Origin;
+        public List<string> Skill;
 
-        public override String ToString()
+        public override string ToString()
         {
             return this.Name + " " + this.Classification + " " + this.Age + " " + this.Origin +  " " + this.Skill;        
 
